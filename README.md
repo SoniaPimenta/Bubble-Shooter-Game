@@ -27,7 +27,36 @@ Welcome to the **Bubble Shooter Game**, a classic and fun arcade-style game buil
 
 git clone https://github.com/your-username/Bubble-Shooter-Game.git
 cd Bubble-Shooter-Game
----
 
-```markdown
-2. Install Dependencies
+```
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3.  Run the Game
+```bash
+python main.py
+
+```
+🎮 How to Play
+Use your mouse to aim the cannon — a dotted line shows your shooting path
+
+Click to shoot bubbles
+
+Match 3 or more bubbles of the same color to clear them
+
+Watch out — bubbles move down after each shot
+
+Clear all bubbles before your moves run out or bubbles reach the cannon
+
+Press ESC to exit anytime
+
+📄 Requirements
+Python 3.x
+
+Pygame
+
+📝 License
+This project is open-source and free to use.
+
