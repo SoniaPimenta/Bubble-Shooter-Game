@@ -24,5 +24,10 @@ Welcome to the **Bubble Shooter Game**, a classic and fun arcade-style game buil
 
 ### 1. Clone the Repository
 ```bash
+
 git clone https://github.com/your-username/Bubble-Shooter-Game.git
 cd Bubble-Shooter-Game
+---
+
+```markdown
+2. Install Dependencies
